@@ -1,0 +1,84 @@
+BODY {
+	FONT-SIZE: 12px; FONT-FAMILY: arial,helvetica; BACKGROUND-COLOR: #cccccc; TEXT-ALIGN: justify
+}
+A:hover {
+	COLOR: blue; FONT-FAMILY: arial,helvetica; TEXT-DECORATION: underline
+}
+A.grey {
+	FONT-SIZE: 10px; COLOR: #c0c0c0; FONT-FAMILY: arial,helvetica
+}
+A.grey:hover {
+	COLOR: #f3b96f; FONT-FAMILY: arial,helvetica; TEXT-DECORATION: underline
+}
+TD.disclaimer {
+	FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: arial,helvetica; TEXT-ALIGN: center
+}
+A.white {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica
+}
+A.white:hover {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica; TEXT-DECORATION: underline
+}
+A.whiteS {
+	FONT-SIZE: 8px; COLOR: #ffffff; FONT-FAMILY: arial,helvetica
+}
+A.whiteS:hover {
+	COLOR: #ffffff; FONT-FAMILY: arial,helvetica; TEXT-DECORATION: underline
+}
+A.navi {
+	FONT-SIZE: 9px; COLOR: black; FONT-FAMILY: arial,helvetica
+}
+A.navi:hover {
+	FONT-SIZE: 9px; COLOR: black; FONT-FAMILY: arial,helvetica; TEXT-DECORATION: underline
+}
+TD.navi {
+	FONT-SIZE: 9px; COLOR: black; FONT-FAMILY: arial,helvetica
+}
+TD.text {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: arial,helvetica; TEXT-ALIGN: left
+}
+TD.textLB {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: black; FONT-FAMILY: arial,helvetica; TEXT-ALIGN: left
+}
+TD.textG {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: arial,helvetica
+}
+TD.textB {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: arial,helvetica
+}
+TD.textC {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: arial,helvetica; TEXT-ALIGN: center
+}
+TD.textS {
+	FONT-SIZE: 11px; COLOR: black; FONT-FAMILY: arial,helvetica
+}
+TD.textSB {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #0082d1; FONT-FAMILY: arial,helvetica; TEXT-ALIGN: right
+}
+TD.textSbB {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: arial,helvetica; TEXT-ALIGN: left
+}
+TD.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: white; FONT-FAMILY: arial,helvetica
+}
+FONT.size2white {
+	FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: arial,helvetica
+}
+FONT.size2black {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: arial,helvetica
+}
+FONT.size2blackB {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: arial,helvetica
+}
+FONT.size1black {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: arial,helvetica
+}
+FONT.size1grey {
+	FONT-SIZE: 9px; COLOR: #999999; FONT-FAMILY: arial,helvetica
+}
+INPUT.orangebutton {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; BORDER-LEFT: black 1px solid; COLOR: #000000; BORDER-BOTTOM: black 1px solid; FONT-FAMILY: arial,helvetica; BACKGROUND-COLOR: #f7ce9c
+}
+HR {
+	COLOR: #d0d0d0; HEIGHT: 1px
+}
